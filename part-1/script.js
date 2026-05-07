@@ -8,3 +8,4 @@ const a=12;         // constant fix rheta h change nhi hota lkn usse update kr s
 
 
 ///  Declarations and initialization 
+g
